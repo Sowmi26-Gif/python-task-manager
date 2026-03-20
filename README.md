@@ -13,3 +13,13 @@ A simple command-line based task manager built using Python. It allows users to 
 1. Open terminal
 2. Navigate to project folder
 3. Run:
+
+
+## Technologies Used
+- Python
+- File Handling
+
+## Future Improvements
+- Add GUI
+- Add task deadlines
+- Store tasks in database
