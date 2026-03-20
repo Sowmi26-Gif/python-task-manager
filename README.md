@@ -1,12 +1,15 @@
-# Python Task Manager (CLI)
+# Python Task Manager
 
-A simple command-line task manager built using Python.
+## Description
+A simple command-line based task manager built using Python. It allows users to add, view, and complete tasks.
 
 ## Features
-- Add tasks
-- View tasks
-- Complete tasks
-- Tasks saved using file handling
+- Add new tasks
+- View all tasks
+- Mark tasks as completed
+- Stores tasks in a file
 
-## Technologies Used
-- Python
+## How to Run
+1. Open terminal
+2. Navigate to project folder
+3. Run:
